@@ -1,4 +1,3 @@
 # Group Members
-1. Name (https://github.com/name/iotclass67)
-1. Name (https://github.com/name/iotclass67)
-1. Name (https://github.com/name/iotclass67)
+1. Boonyakorn Kerdpum (https://github.com/bbiggy/iotclass67)
+2. Supakit Grudsorn (https://github.com/ballkungZ/iotclass67)
